@@ -269,5 +269,3 @@ INTERVAL = 10  # seconds (adjustable)
 - [ ] SNMP polling for more detailed metrics
 - [ ] Larger topology support with EVE-NG
 
-
-MIT License
