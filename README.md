@@ -1,6 +1,7 @@
 # 🤖 Network Anomaly Detection with AI
 
 ระบบตรวจจับความผิดปกติใน Network แบบ Real-time โดยใช้ Machine Learning (Random Forest) เชื่อมต่อกับ Cisco Router ผ่าน GNS3
+<img width="905" height="431" alt="image" src="https://github.com/user-attachments/assets/ab3f4eb0-583e-45a2-a855-9a0843eee9e5" />
 
 ---
 
