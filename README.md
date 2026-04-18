@@ -1,6 +1,6 @@
 # 🤖 Network Anomaly Detection with AI
 
-A real-time network anomaly detection system using Machine Learning (Random Forest) connected to Cisco Routers via GNS3. Built as my final year project.
+A real-time network anomaly detection system using Machine Learning (Random Forest) connected to Cisco Routers via GNS3. 
 
 ---
 <img width="1100" height="652" alt="สกรีนช็อต 2026-04-19 024358" src="https://github.com/user-attachments/assets/89ce510d-36c9-42fb-8e6b-55966614a623" />
