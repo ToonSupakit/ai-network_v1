@@ -269,14 +269,3 @@ INTERVAL = 10  # วินาที (เปลี่ยนได้)
 - [ ] เพิ่ม Line / Email notification
 - [ ] รองรับ topology ขนาดใหญ่ขึ้น
 
----
-
-## 👨‍💻 Author
-
-สร้างเพื่อโปรเจคจบการศึกษา และพัฒนาต่อเป็น portfolio
-
----
-
-## 📄 License
-
-MIT License
